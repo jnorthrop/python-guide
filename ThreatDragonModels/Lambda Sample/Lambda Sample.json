@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Lambda Sample",
+    "owner": "Test",
+    "description": "This is a sample to try a map of a simple Lambda function"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Sample",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Test"
+  }
+}
